@@ -1,0 +1,11 @@
+.centered{
+  text-align: center;
+  padding-bottom: 32px;
+}
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
